@@ -4,3 +4,4 @@ b = 6
 
 c = a + B
 print (c) 
+print ( a ,b)
