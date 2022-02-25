@@ -3,6 +3,7 @@
 a = 3
 b = 6
 
-c = a + B
+c = a + b
+
 print (c) 
 print ( a ,b)
